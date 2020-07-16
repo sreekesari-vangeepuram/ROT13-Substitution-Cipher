@@ -1,10 +1,10 @@
 # ROT13-Substitution-Cipher
 
->> Initial Commit Detials:\
+Initial Commit Detials:\
   Date: Jul 16, 2020 [Thu]\
   Time: 15:36:12 IST
   
->> First Steps:\
+First Steps:\
    1. Unzip the file.\
    2. Make sure that you have the execution permission to `rot13_cipher.py`\
       and reading permission to `rot13_dict.py`.\
