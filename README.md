@@ -13,4 +13,4 @@ __*First Steps:*__
    4. Syntax to decrypt a file:\
       `./rot13_cipher.py <file-to-decrpyt> <destination-decrypted-filename>`
    5. If the encryption or decryption is successfull, you receive a message as below:\
-      `Ciphertext location: <destiaantion-filename>`
+      `Ciphertext location: <destination-filename>`
