@@ -1,8 +1,8 @@
 # ROT13-Substitution-Cipher
 
 *__Initial Commit Detials:__*\
-  <mark>Date:</mark> Jul 16, 2020 [Thu]\
-  <mark>Time:</mark> 15:36:12 IST
+  *Date:* Jul 16, 2020 [Thu]\
+  *Time:* 15:36:12 IST
   
 __*First Steps:*__
    1. Unzip the file.
